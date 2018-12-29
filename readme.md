@@ -1,8 +1,6 @@
 # Technical task
 
-Разработать Web-приложение со следующим функционалом:
-* Вести табличное представление транспортных маршрутов, состоящих из узловых точек и соединяющих их дорог (с учётом их длины). Должны поддерживаться операции редактирования/добавления/удаления узловых точек и дорог.
-* По заданным двум узловым точкам найти маршрут с кратчайшей суммарной длиной.
-* Представление транспортных маршрутов должно сохраняться в БД.
-
-Использовать ASP.NET MVC 5, Kendo UI, PostgreSQL.
+Develop web application with the following functionality:
+* Maintain a tabular view of transport routes which consists of nodes and roads which connects them (taking into account their length). It should support edit/add/delete node, point and road operations.
+* Find the route with the lowest total length by the given two node points.
+* Presentation of transport routes should be stored in a database.
